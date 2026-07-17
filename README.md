@@ -1,2 +1,2 @@
 # mygitpro
-i want test myname
+i want test mygithub
